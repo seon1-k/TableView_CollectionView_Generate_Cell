@@ -29,3 +29,5 @@ func collectionView(_ collectionView: UICollectionView, cellForItemAt indexPath:
       return cell  
 }
 ```
+
+GenerateCell.Swift 파일을 프로젝트에 추가해주세요!
